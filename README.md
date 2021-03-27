@@ -1,4 +1,5 @@
 # RestApiFirstExample
+<p> Flutter provides http package to use http resources. The http package uses await and async features and provides many high-level methods such as read, get, post, put, head, and delete methods for sending and receiving data from remote locations.</p>
 
 A new Flutter project.
 
